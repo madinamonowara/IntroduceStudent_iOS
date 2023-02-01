@@ -1,12 +1,12 @@
-App Description
-TODO:// Your classmates want to know more about you. Introduce yourself!
+## Introduce Student App
 
-App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
+### App Description
+Your classmates want to know more about you. Introduce yourself!
 
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
+### App Walk-through
+<img src="https://user-images.githubusercontent.com/81177928/215920952-11070bcf-3b96-44af-b2af-5f13c03ae1ec.gif" width=300><br>
 
-Required Features
+### Required
 - [x] 1. App displays an image of a school's logo
 - [x] 2. App has three textfields for first, last, and school names
 - [x] 3. App has a segmented control that changes student year
